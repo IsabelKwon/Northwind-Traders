@@ -12,11 +12,13 @@ This project is based on a Dataquest guided project, using their provided databa
 
 ## What's covered
 
-- Combining customers, orders, and order details into reusable views
+- Combining customers, orders, order details, and employees into reusable views
 - Ranking employees by total sales, overall and within job title
 - Monthly sales trends: running totals, month-over-month growth rate, and a 3-month moving average to reduce noise
 - Visualizing growth rate trends with matplotlib
 - Customer order frequency vs. average, and what the distribution shape reveals about customer segments
+- Order value vs. average, with discount rate — plotted as a scatter to check whether discounts actually predict larger orders
+- Sales percentage by category, and top products within each category to flag categories that lean on a single product
 
 ## Files
 
